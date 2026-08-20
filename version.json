@@ -1,5 +1,5 @@
 {
-  "version": 30,
-  "url": "https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Sinpas_Stok_Takip_v30.hta",
-  "notes": "V30: veriler AppData'da kalır; program kapanıp açıldığında korunur; GitHub üzerinden uygulama içi güncelleme ve otomatik yedekleme."
+  "version": 31,
+  "url": "https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Stok_Takip_Programi_v31.hta",
+  "notes": "V31: ürün adı Stok Takip Programı olarak sadeleştirildi; Sinpaş ibareleri kullanıcı arayüzünden kaldırıldı. V30 kalıcı veri ve GitHub güncelleme sistemi korunur."
 }
