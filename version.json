@@ -1,5 +1,5 @@
 {
-  "version": 28,
-  "url": "https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Sinpas_Stok_Takip_v28.hta",
-  "notes": "V28: GitHub üzerinden uygulama içi güncelleme; mevcut veritabanı korunur."
+  "version": 29,
+  "url": "https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Sinpas_Stok_Takip_v29.hta",
+  "notes": "V29: sade sag ust guncelleme butonu; marka ve model bazli musait stok/aktif siparis grafikleri."
 }
