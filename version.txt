@@ -1,0 +1,1 @@
+32|https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Stok_Takip_Programi_v32_fix4_test.hta
