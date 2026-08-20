@@ -1,5 +1,5 @@
 {
-  "version": 31,
-  "url": "https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Stok_Takip_Programi_v31.hta",
-  "notes": "V31: ürün adı Stok Takip Programı olarak sadeleştirildi; Sinpaş ibareleri kullanıcı arayüzünden kaldırıldı. V30 kalıcı veri ve GitHub güncelleme sistemi korunur."
+  "version": 32,
+  "url": "https://raw.githubusercontent.com/sakkaoguzhan/sinpas-stok-takip/main/Stok_Takip_Programi_v32_test.hta",
+  "notes": "V32 test: uygulama içi GitHub güncelleme testi."
 }
